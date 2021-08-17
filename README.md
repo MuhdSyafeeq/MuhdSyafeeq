@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming Language that leans towards C# and C++
 - 🌱 I’m currently learning Advanced C# and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me through Email (fauzisyafeeq@gmail.com)
 
 <!---
 MuhdSyafeeq/MuhdSyafeeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
